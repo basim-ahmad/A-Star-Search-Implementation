@@ -29,8 +29,8 @@ To run the search on the sample grids, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/a-star-search.git
-    cd a-star-search
+    git clone https://github.com/basim-ahmad/A-Star-Search-Implementation.git
+    cd A-Star-Search-Implementation
     ```
 
 2. Make sure you have Python 3.x installed. You can check your Python version by running:
